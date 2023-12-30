@@ -1,4 +1,4 @@
-### Hi, I'm Alex
+### Hey, I'm Alex 👋
 
 * 🏫 Computer Science Student at Washington State University Tri-Cities
     * Sophomore
@@ -7,7 +7,7 @@
 * 🖥️ Programming Languages: C, C++
 * ✉️ Contact
     * Email: alexcarbajal710@gmail.com
-    * Linkedin: alex-sir
+    * LinkedIn: alex-sir
 <!--
 **alex-sir/alex-sir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
