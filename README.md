@@ -7,7 +7,7 @@
 * 🖥️ Programming Languages: C, C++
 * ✉️ Contact:
     * Email: alexcarbajal710@gmail.com
-    * LinkedIn: alex-sir
+    * LinkedIn: alex-carbajal
 <!--
 **alex-sir/alex-sir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
