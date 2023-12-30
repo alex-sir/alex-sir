@@ -1,11 +1,11 @@
-### Hey, I'm Alex 👋
+## Hey, I'm Alex 👋
 
-* 🏫 Computer Science Student at Washington State University Tri-Cities
+* 🏫 Computer Science Student at Washington State University Tri-Cities:
     * Sophomore
     * 3.96 Cumulative GPA
     * Bachelor of Science (BS)
 * 🖥️ Programming Languages: C, C++
-* ✉️ Contact
+* ✉️ Contact:
     * Email: alexcarbajal710@gmail.com
     * LinkedIn: alex-sir
 <!--
