@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi, I'm Alex
 
+* 🏫 Computer Science Student at Washington State University Tri-Cities
+    * Sophomore
+    * 3.96 Cumulative GPA
+    * Bachelor of Science (BS)
+* 🖥️ Programming Languages: C, C++
+* ✉️ Contact
+    * Email: alexcarbajal710@gmail.com
+    * Linkedin: alex-sir
 <!--
 **alex-sir/alex-sir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
