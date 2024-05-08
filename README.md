@@ -1,8 +1,8 @@
 ## Hey, I'm Alex 👋
 
 * 🏫 Computer Science Student at Washington State University Tri-Cities:
-    * Sophomore
-    * 3.96 Cumulative GPA
+    * Junior
+    * 3.97 Cumulative GPA
     * Bachelor of Science (BS)
 * 🖥️ Programming Languages: C, C++
 * ✉️ Contact:
