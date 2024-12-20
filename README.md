@@ -7,7 +7,7 @@
 * 🖥️ Programming Languages: C, C++, JavaScript
 * 💻 Other Languages: HTML, CSS
 * 🛠️ Tools: Linux Command Line, Neovim/Vim, Visual Studio Code
-* ✉️ Contact
+* ✉️ Contact Me
     * Email: alexcarbajal710@gmail.com
     * LinkedIn: alex-carbajal
 <!--
