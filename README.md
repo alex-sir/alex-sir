@@ -5,6 +5,8 @@
     * 3.98 Cumulative GPA
     * Bachelor of Science (BS)
 * 🖥️ Programming Languages: C, C++, JavaScript
+* 💻 Other Languages: HTML, CSS
+* 🛠️ Tools: Linux Command Line, Neovim/Vim, VS Code
 * ✉️ Contact:
     * Email: alexcarbajal710@gmail.com
     * LinkedIn: alex-carbajal
