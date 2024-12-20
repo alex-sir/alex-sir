@@ -1,12 +1,12 @@
 ## Hey, I'm Alex 👋
 
-* 🏫 Computer Science Student at WSU Tri-Cities
+* 🏫 Computer Science Student at Washington State University Tri-Cities
     * Junior
     * 3.98 Cumulative GPA
     * Bachelor of Science (BS)
 * 🖥️ Programming Languages: C, C++, JavaScript
 * 💻 Other Languages: HTML, CSS
-* 🛠️ Tools: Linux Command Line, Neovim/Vim, VS Code
+* 🛠️ Tools: Linux Command Line, Neovim/Vim, Visual Studio Code
 * ✉️ Contact:
     * Email: alexcarbajal710@gmail.com
     * LinkedIn: alex-carbajal
