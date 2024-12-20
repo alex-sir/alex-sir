@@ -2,9 +2,9 @@
 
 * 🏫 Computer Science Student at Washington State University Tri-Cities:
     * Junior
-    * 3.97 Cumulative GPA
+    * 3.98 Cumulative GPA
     * Bachelor of Science (BS)
-* 🖥️ Programming Languages: C, C++
+* 🖥️ Programming Languages: C, C++, JavaScript
 * ✉️ Contact:
     * Email: alexcarbajal710@gmail.com
     * LinkedIn: alex-carbajal
