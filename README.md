@@ -1,10 +1,10 @@
 ## Hey, I'm Alex 👋
 
 * 🏫 Computer Science Student at Washington State University Tri-Cities
-    * Junior
+    * Senior
     * 3.98 Cumulative GPA
     * Bachelor of Science (BS)
-* 🖥️ Programming Languages: C, C++, JavaScript
+* 🖥️ Programming Languages: C, C++, JavaScript, Python
 * 💻 Other Languages: HTML, CSS
 * 🛠️ Tools: Linux Command Line, Neovim/Vim, Visual Studio Code
 * ✉️ Contact Me
