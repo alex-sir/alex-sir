@@ -7,6 +7,7 @@
 * 🖥️ Programming Languages: C, C++, JavaScript, Python
 * 💻 Other Languages: HTML, CSS
 * 🛠️ Tools: Linux Command Line, Neovim/Vim, Visual Studio Code
+* 🏆 Certifications: CompTIA Security+
 * ✉️ Contact Me
     * Email: alexcarbajal710@gmail.com
     * LinkedIn: alex-carbajal
