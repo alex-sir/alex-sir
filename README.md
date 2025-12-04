@@ -4,7 +4,7 @@
     * Senior
     * 3.98 Cumulative GPA
     * Bachelor of Science (BS)
-* 🖥️ Programming Languages: C, C++, JavaScript, Python
+* 🖥️ Programming Languages: C, C++, JavaScript, Python, Bash
 * 💻 Other Languages: HTML, CSS
 * 🛠️ Tools: Linux Command Line, Neovim/Vim, Visual Studio Code
 * 🏆 Certifications: CompTIA Security+
