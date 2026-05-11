@@ -1,12 +1,20 @@
-## Hey, I'm Alex 👋
+## Hi, I'm Alex 👋
 
-* 🏫 Computer Science Student at Washington State University Tri-Cities
-    * Senior
-    * 3.98 Cumulative GPA
+* 🎓 Computer Science Graduate from Washington State University Tri-Cities
     * Bachelor of Science (BS)
+    * Summa Cum Laude
+    * 3.98 Cumulative GPA
 * 🖥️ Programming Languages: C, C++, JavaScript, Python, Bash
 * 💻 Other Languages: HTML, CSS
 * 🛠️ Tools: Linux Command Line, Neovim/Vim, Visual Studio Code
+* 📚 Publications:
+    * Characterizing AI-Assisted Bot Traffic in Darknet Data: Implications for ICS and IIoT Security
+       * IEEE AIIoT 2026
+       * Accepted for publication
+       * [Code](https://github.com/alex-sir/bot-traffic)
+    * [A Software-Defined Testbed for Quantifying Deauthentication Resilience in Modern Wi-Fi Networks](https://ieeexplore.ieee.org/document/11476611)
+       * IEEE SoutheastCon 2026
+       * [Code](https://github.com/alex-sir/wifi-deauthentication)
 * 🏆 Certifications: CompTIA Security+
 * ✉️ Contact Me
     * Email: alexcarbajal710@gmail.com
