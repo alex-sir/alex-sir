@@ -3,7 +3,7 @@
 * 🎓 Computer Science Graduate from Washington State University Tri-Cities
     * Bachelor of Science (BS)
     * Summa Cum Laude
-    * 3.98 Cumulative GPA
+    * 3.99 Cumulative GPA
 * 🖥️ Programming Languages: C, C++, JavaScript, Python, Bash
 * 💻 Other Languages: HTML, CSS
 * 🛠️ Tools: Linux Command Line, Neovim/Vim, Visual Studio Code
